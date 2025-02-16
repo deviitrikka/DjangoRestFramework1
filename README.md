@@ -1,5 +1,3 @@
----
-
 # **Building a CRUD API with Django Rest Framework (DRF)**
 
 Hey everyone! In this video, I will show you **how to build a CRUD (Create, Read, Update, Delete) API** using **Django Rest Framework (DRF)**.
